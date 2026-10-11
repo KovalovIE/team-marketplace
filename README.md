@@ -46,3 +46,5 @@ To pin the marketplace at the project level (so every contributor in this repo g
 2. Add an entry to [CHANGELOG.md](./CHANGELOG.md) under the next version.
 3. CI validates every plugin on every PR via `.github/workflows/validate-plugins.yml`.
 4. Get the named maintainer-approver of the affected plugin to review.
+
+lesson 5.6.
